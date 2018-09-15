@@ -1,0 +1,12 @@
+d:\source\repos\XO\XO\bin\Debug\XO.exe.config
+d:\source\repos\XO\XO\bin\Debug\XO.exe
+d:\source\repos\XO\XO\bin\Debug\XO.pdb
+d:\source\repos\XO\XO\obj\Debug\XO.csprojAssemblyReference.cache
+d:\source\repos\XO\XO\obj\Debug\XO.Form1.resources
+d:\source\repos\XO\XO\obj\Debug\XO.Properties.Resources.resources
+d:\source\repos\XO\XO\obj\Debug\XO.csproj.GenerateResource.cache
+d:\source\repos\XO\XO\obj\Debug\XO.csproj.CoreCompileInputs.cache
+d:\source\repos\XO\XO\obj\Debug\XO.exe
+d:\source\repos\XO\XO\obj\Debug\XO.pdb
+d:\source\repos\XO\XO\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+d:\source\repos\XO\XO\obj\Debug\XO.csproj.CopyComplete
